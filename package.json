@@ -1,0 +1,17 @@
+{
+  "name": "nba-technical",
+  "version": "1.0.0",
+  "author": "James Pickett",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "mocha": "^9.2.2",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  }
+}
